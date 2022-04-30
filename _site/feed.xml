@@ -1,4 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh_cn"><generator uri="https://jekyllrb.com/" version="3.9.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="zh_cn" /><updated>2021-12-31T18:37:32+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Hi!</title><subtitle>Our destiny is in the stars.</subtitle><author><name>IsrecalPear</name></author><entry><title type="html">新年快乐</title><link href="http://localhost:4000/2021/12/31/happy-new-year/" rel="alternate" type="text/html" title="新年快乐" /><published>2021-12-31T18:30:00+08:00</published><updated>2021-12-31T18:30:00+08:00</updated><id>http://localhost:4000/2021/12/31/happy-new-year</id><content type="html" xml:base="http://localhost:4000/2021/12/31/happy-new-year/">&lt;p&gt;新年快乐&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh_cn"><generator uri="https://jekyllrb.com/" version="3.9.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="zh_cn" /><updated>2022-01-10T12:41:45+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Hi!</title><subtitle>Our destiny is in the stars.</subtitle><author><name>IsrecalPear</name></author><entry><title type="html">2021年的总结</title><link href="http://localhost:4000/2022/01/08/2021-sum/" rel="alternate" type="text/html" title="2021年的总结" /><published>2022-01-08T16:32:00+08:00</published><updated>2022-01-08T16:32:00+08:00</updated><id>http://localhost:4000/2022/01/08/2021-sum</id><content type="html" xml:base="http://localhost:4000/2022/01/08/2021-sum/">&lt;p&gt;新年快乐！&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;文章从一月八号开始写，也不知道什么时候能写完&lt;br /&gt;
+好消息是经过一分钟的配置图床已经完成了&lt;br /&gt;
+原来已经上传到仓库的文件不能再添加到&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;.gitignore&lt;/code&gt;里面啊，麻了&lt;br /&gt;
+那就这样吧，屎就屎&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;这么仔细一想，2021年似乎什么都没有做的样子，最大的收获就是当了个混子拿了张奖状，完了长了二两肉吧&lt;br /&gt;
+不过现在最大的问题就是离开大学以后该何去何从，&lt;/p&gt;</content><author><name>IsrecalPear</name></author><category term="日常" /><summary type="html">新年快乐！</summary></entry><entry><title type="html">新年快乐</title><link href="http://localhost:4000/2021/12/31/happy-new-year/" rel="alternate" type="text/html" title="新年快乐" /><published>2021-12-31T18:30:00+08:00</published><updated>2021-12-31T18:30:00+08:00</updated><id>http://localhost:4000/2021/12/31/happy-new-year</id><content type="html" xml:base="http://localhost:4000/2021/12/31/happy-new-year/">&lt;p&gt;新年快乐&lt;/p&gt;
 
 &lt;p&gt;过得可真快啊&lt;br /&gt;
 离谱，一个月没动的代码现在运行就报错&lt;br /&gt;
