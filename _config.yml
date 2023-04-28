@@ -1,10 +1,10 @@
 title: Hi!
 description: Our destiny is in the stars.
 url: https://isrecalpear.com/
-avatar: /avatar.jpeg
+avatar: /avatar.webp
 paginate: 5
 permalink: pretty
-cover_image: /bg.jpeg
+cover_image: /bg.webp
 remote_theme: isrecalpear/not-pure-poole
 
 plugins:
