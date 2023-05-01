@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: music-share
 title: 四月份的我在听什么
 author: Pear
 tags: 我在听什么
