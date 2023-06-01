@@ -1,9 +1,10 @@
 ---
-layout: music-share
+layout: post
 title: 四月份的我在听什么
 author: Pear
 tags: 我在听什么
 date: 2023-04-28 15:57 +0800
+music-share: true
 ---
 <script>
     var music_list = [
@@ -32,9 +33,3 @@ var vault_url = "https://blog-1300514373.cos.ap-guangzhou.myqcloud.com/Music_Sha
 # 30℃突然降温到15℃再升温到30℃
 
 这就是重庆吗
-
-**_ビリミリオン_ by ゆうり**
-
-**_Would You Be So Kind_ by dodie**
-
-**_Questions_ by Far Caspian**

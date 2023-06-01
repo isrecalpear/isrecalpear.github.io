@@ -2,7 +2,7 @@
 layout: post
 title: 常用的 Git 配置
 author: Pear
-tags: Git 笔记
+tags: Git笔记
 date: 2023-04-28 15:32 +0800
 ---
 
