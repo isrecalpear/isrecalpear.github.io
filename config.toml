@@ -1,0 +1,113 @@
+baseURL = "https://blog.isrecalpear.com/"
+languageCode = "zh-cn"
+title = "Hi!"
+theme = "personal-web"
+copyright = "© Isrecal Pear"
+googleAnalytics = ""
+enableEmoji = true
+enableRobotsTXT = true
+pygmentsUseClasses = true
+pygmentsCodeFences = true
+
+[params.intro]
+main = "Hi, IsrecalPear Here :wave:"
+sub = "Wish you have a good day :heart:"
+
+[params.main]
+latestPublishHeader = "看看我最近更新了什么吧"
+
+[taxonomies]
+design = "designs"
+tech = "techs"
+
+[blackfriday]
+hrefTargetBlank = true
+
+[params]
+breadcrumb = true
+accentColor = "#FD3519"
+mainSections = ['post']
+rendererSafe = true
+math = true
+
+[params.sections]
+post = "文章"
+portfolio = "项目"
+
+[params.notFound]
+gopher = "/images/gopher.png"
+h1 = '哦不!'
+p = "你想访问的页面似乎在玩捉迷藏, 我会努力找到它的"
+
+[params.sidebar]
+backgroundImage = '/images/default_sidebar.jpg'
+gradientOverlay = ''
+logo = "/images/head.jpg"
+
+[params.assets]
+favicon = ""
+customCSS = ""
+
+[params.social]
+github = "https://github.com/isrecalpear/"
+
+[params.contact]
+email = ""
+text = "Email me"
+
+[menu]
+
+[[menu.main]]
+identifier = "blog"
+name = "Post"
+title = "Blog section"
+url = "/post/"
+weight = -130
+
+[[menu.main]]
+identifier = "myfriend"
+name = "My friends"
+title = "My friends"
+url = "/friends/"
+weight = -120
+
+[[menu.main]]
+identifier = "portfolio"
+name = "Portfolio"
+title = "Portfolio"
+url = "/portfolio/"
+weight = -110
+
+[[menu.main]]
+identifier = "about"
+name = "About"
+title = "About section"
+url = "/about/"
+weight = -100
+
+[sitemap]
+changefreq = "monthly"
+filename = "sitemap.xml"
+priority = 0.5
+
+[privacy]
+[privacy.googleAnalytics]
+anonymizeIP = true
+disable = true
+respectDoNotTrack = true
+useSessionStorage = false
+[privacy.twitter]
+disable = false
+enableDNT = true
+simple = false
+
+[markup]
+[markup.goldmark]
+[markup.goldmark.renderer]
+unsafe = true
+[markup.goldmark.extensions]
+[markup.goldmark.extensions.passthrough]
+enable = true
+[markup.goldmark.extensions.passthrough.delimiters]
+block = [['\[', '\]'], ['$$', '$$']]
+inline = [['\(', '\)'], ['$', '$']]
