@@ -28,7 +28,7 @@ breadcrumb = true
 accentColor = "#FD3519"
 mainSections = ['post']
 rendererSafe = true
-math = true
+math = false
 
 [params.sections]
 post = "文章"
@@ -109,5 +109,5 @@ unsafe = true
 [markup.goldmark.extensions.passthrough]
 enable = true
 [markup.goldmark.extensions.passthrough.delimiters]
-block = [['\[', '\]'], ['$$', '$$']]
-inline = [['\(', '\)'], ['$', '$']]
+block = [['@[', '@]']]
+inline = [['@(', '@)']]
