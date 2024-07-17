@@ -2,7 +2,7 @@
 title: "第一章 第一节"
 description: 光度学基础-光的本质
 date: 2024-07-17T18:17:36+08:00
-publishDate: 2024-07-17T18:17:36+08:00
+publishDate: 2024-07-17T21:23:20+08:00
 params:
   math: true
 ---
