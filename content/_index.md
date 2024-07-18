@@ -4,4 +4,5 @@ description: Welcome!
 ---
 
 Hey,  
-IsrecalPear here.
+IsrecalPear here.  
+[About me](/about)
