@@ -27,7 +27,7 @@ params:
 
 额外的, 在摄影领域, 可以将数码相机传感器前端的红外截止滤镜移除, 使得传感器接收到红外线, 从而拍摄独特的照片, 也即是[红外摄影 - Infrared photography](https://en.wikipedia.org/wiki/Infrared_photography)
 
-{{< figure src="Section1_Tree_example_IR.jpg" caption="红外摄影照片 By [Daniel Schwen](https://commons.wikimedia.org/wiki/File:Tree_example_IR.jpg)" >}}
+{{< figure src="Tree_example_IR.jpg" caption="红外摄影照片 By [Daniel Schwen](https://commons.wikimedia.org/wiki/File:Tree_example_IR.jpg)" >}}
 
 光是颜色形成的第一要素, 光是色的源泉, 色是光的表现. 牛顿早在1666年做过著名的三棱镜折射实验, 发现白光(日光)是由不同颜色(不同波长)的光混合而成的, 而不同波长的光有不同折射率.
 
